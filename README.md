@@ -1,2 +1,2 @@
-# HarryPotter-Clone-SwiftUIMVVMCombine
+# HarryPotter-Characters-SwiftUIMVVMCombine
  Character List with MVVM SwiftUI
